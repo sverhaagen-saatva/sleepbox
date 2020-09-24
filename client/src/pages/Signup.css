@@ -1,0 +1,52 @@
+.signup-container {
+    background: rgba(255, 255, 255, 0.3);
+    margin-left: 0;
+    padding: 0 3rem 0 3rem;
+}
+
+.signup-container__inner {
+    max-width: 500px;
+    width: 100%;
+    text-align: center;
+}
+
+.cardSection {
+    width: 400px;
+}
+
+.cardSection button {
+    margin: 0 auto;
+
+    font-size: 12px;
+    padding: 0.75rem;
+    margin-top: 1rem;
+}
+
+.monthly.active {
+    border: 6px solid #9c6a6a;
+}
+
+.quarterly.active {
+    border: 6px solid #d5aa63;
+}
+
+.yearly.active {
+    border: 6px solid #365562;
+}
+
+.subOption {
+    transition: all 0.3s ease-out;
+}
+
+.subOption button {
+    opacity: 1;
+}
+
+.subOption.active button {
+    opacity: 0;
+}
+
+.subOption.active {
+    transform: scale(1.05);
+    box-shadow: 0 16px 32px rgba(0, 0, 0, 0.3);
+}

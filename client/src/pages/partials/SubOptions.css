@@ -1,0 +1,63 @@
+.subOptions {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+
+.subOptions__inner {
+    max-width: 80%;
+    margin: 0 auto;
+    margin-bottom: 3rem;
+}
+
+.subOption {
+    position: relative;
+    border: 1px solid #d2d2d2;
+    border-radius: 16px;
+    padding: 1rem 1rem 3rem 1rem;
+    margin: 0 1rem 0 1rem;
+    background: white;
+}
+
+.subOption hr {
+    border: none;
+    border-bottom: 3px solid;
+    width: 60px;
+}
+
+.monthly hr {
+    border-color: #9c6a6a;
+}
+
+.quarterly hr {
+    border-color: #d5aa63;
+}
+
+.yearly hr {
+    border-color: #365562;
+}
+
+.subOption ul {
+    margin: 0;
+    margin-left: 1rem;
+    font-weight: semibold;
+    font-size: 14px;
+}
+
+.subOption li {
+    margin-bottom: 0.25rem;
+}
+
+/* Extra small devices (phones, 600px and down) */
+/* @media only screen and (max-width: 600px) {...} */
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+/* @media only screen and (min-width: 600px) {...} */
+
+/* Medium devices (landscape tablets, 768px and up) */
+/* @media only screen and (min-width: 768px) {} */
+
+/* Large devices (laptops/desktops, 992px and up) */
+/* @media only screen and (min-width: 992px) {...} */
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+/* @media only screen and (min-width: 1200px) {...} */

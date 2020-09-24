@@ -1,0 +1,48 @@
+.picks {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+
+    text-align: left;
+}
+
+.picks__inner {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.picks .half {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.picks .image {
+    border-radius: 32px;
+    box-shadow: 0 16px 32px rgba(0, 0, 0, 0.15);
+    width: 538px;
+    height: 500px;
+
+}
+
+.picks ul {
+    margin-top: 0.75rem;
+    padding-left: 1rem;
+}
+
+.picks li {
+    margin-bottom: 0.5rem;
+}
+
+/* Extra small devices (phones, 600px and down) */
+/* @media only screen and (max-width: 600px) {...} */
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+/* @media only screen and (min-width: 600px) {...} */
+
+/* Medium devices (landscape tablets, 768px and up) */
+/* @media only screen and (min-width: 768px) {} */
+
+/* Large devices (laptops/desktops, 992px and up) */
+/* @media only screen and (min-width: 992px) {...} */
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+/* @media only screen and (min-width: 1200px) {...} */

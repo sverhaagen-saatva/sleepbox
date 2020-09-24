@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="879px" height="40px" viewBox="0 0 879 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>_playbackControls</title>
+    <g id="Saatva.com-/-Sleep-Retreat-Subscription" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-/-Sleep-Retreat-Subscription-Mockup-v1" transform="translate(-280.000000, -4910.000000)">
+            <g id="[7]-unboxing-video" transform="translate(0.000000, 4270.000000)">
+                <g id="_video" transform="translate(260.000000, 200.000000)">
+                    <g id="_playbackControls" transform="translate(20.000000, 440.000000)">
+                        <g id="_track" transform="translate(80.000000, 0.000000)">
+                            <g id="container">
+                                <rect fill="#000000" opacity="0.600000024" transform="translate(399.500000, 20.000000) scale(1, -1) translate(-399.500000, -20.000000) " x="0" y="0" width="799" height="40"></rect>
+                                <rect stroke="#FFFFFF" opacity="0.5" transform="translate(322.000000, 20.000000) scale(1, -1) translate(-322.000000, -20.000000) " x="15" y="13" width="614" height="14"></rect>
+                            </g>
+                            <g id="_icons" transform="translate(652.000000, 8.000000)" fill="#FFFFFF">
+                                <text id="􀅊" font-family="SFCompact-Regular, SF Compact" font-size="20" font-weight="normal">
+                                    <tspan x="104" y="19">􀅊</tspan>
+                                </text>
+                                <text id="􀑡" font-family="SFCompact-Regular, SF Compact" font-size="20" font-weight="normal">
+                                    <tspan x="67" y="19">􀑡</tspan>
+                                </text>
+                                <text id="􀊧" font-family="SFCompact-Regular, SF Compact" font-size="20" font-weight="normal">
+                                    <tspan x="30" y="19">􀊧</tspan>
+                                </text>
+                                <path d="M18.5415213,13.9061745 C17.462927,12.0919702 18.1186758,9.76721001 20,8.70723875 L17.9700033,5.30264942 C17.3778505,5.62918336 16.7014669,5.812349 15.9829678,5.812349 C13.8059477,5.83305504 12.0304195,4.11998328 12.0304195,2 L7.97046847,2 C7.97046847,2.65225236 7.80116536,3.30450472 7.4419116,3.91614422 C6.36331731,5.73034853 3.93187113,6.34190648 2.05063152,5.30269019 L0,8.70727953 C0.592152833,9.03381347 1.09922915,9.50208467 1.45847869,10.0938255 C2.53707298,11.9080298 1.90280473,14.23279 0,15.2927612 L2.02999666,18.6973506 C2.60066894,18.3708166 3.2770526,18.187651 3.99639736,18.187651 C6.17426309,18.187651 7.92928332,19.8800167 7.92928332,22 L12.0099538,22 C12.0099538,21.3477476 12.1792569,20.6954953 12.5385107,20.1037544 C13.6171049,18.2895501 16.026986,17.6779922 17.9297907,18.7172085 L19.9597874,15.3126191 C19.387466,14.9669817 18.9018491,14.4978949 18.541775,13.9061745 L18.5415213,13.9061745 Z M9.47368421,16 C7.13462106,16 5.26315789,14.2221504 5.26315789,12 C5.26315789,9.7778496 7.1553324,8 9.47368421,8 C11.8127474,8 13.6842105,9.79756578 13.6842105,12 C13.6842105,14.22211 11.8127899,16 9.47368421,16 Z" id="settings" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                        <g id="_play">
+                            <rect id="container" fill="#000000" opacity="0.600000024" transform="translate(30.000000, 20.000000) scale(1, -1) translate(-30.000000, -20.000000) " x="0" y="0" width="60" height="40" rx="4"></rect>
+                            <polygon id="play" fill="#FFFFFF" fill-rule="nonzero" points="19 32 41 20 19 8"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

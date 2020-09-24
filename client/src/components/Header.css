@@ -1,0 +1,23 @@
+.header {
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+.logo {
+    font-family: 'Merriweather';
+    font-weight: bold;
+    color: #365562;
+    text-align: left;
+    width: 100%;
+
+    font-size: 20px;
+    padding-left: 3rem;
+
+    text-decoration: none;
+    margin-top: 1rem;
+}
+
+.logo:hover {
+    color: #517788;
+}

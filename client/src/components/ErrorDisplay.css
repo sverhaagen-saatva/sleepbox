@@ -1,0 +1,29 @@
+.error-display {
+    position: absolute;
+    top: -32px;
+    max-height: 24px;
+    padding: 1rem;
+
+    z-index: 100000;
+    box-sizing: border-box;
+
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+
+    background: rgb(194, 92, 67);
+    color: white;
+
+    transition: all 0.3s ease-out;
+}
+
+.error-display.active {
+    top: 0;
+}
+
+.error-display p {
+    color: white;
+    margin: 0;
+}
